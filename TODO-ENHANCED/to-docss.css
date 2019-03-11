@@ -1,0 +1,37 @@
+body
+{
+background-color: deepskyblue;
+}
+h1
+{
+    margin: 50px;
+}
+#userinput
+{
+    margin:30px;
+    height: 50px;
+    width: 400px;
+}
+#add ,#remove
+{
+    margin: 5px;
+    height: 40px;
+    width: 150px;
+}
+.formcontrol
+{
+    margin: 0 auto;
+}
+ul
+{
+    list-style-type: none;
+}
+#list
+{
+    font-size: 1.5em;
+}
+.btn-xs
+{
+    height: 30px;
+    width: 70px;
+}
