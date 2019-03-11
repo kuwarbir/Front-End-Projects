@@ -1,0 +1,114 @@
+body
+{
+    padding: 0px;
+    
+}
+.navbar-wrapper
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 20;
+}
+.navbar-wrapper >.container
+{
+    padding-right: 0;
+    padding-left: 0;
+}
+.navbar-wrapper .navbar 
+{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.navbar-wrapper .navbar .container
+{
+    width: auto;
+}
+{
+    padding-right: 0;
+    padding-left: 0;
+}
+.carousel
+{
+    
+    height: 500px;
+    margin-top:50px; 
+    margin-bottom: 50px;
+    
+}
+.carousel .item
+{
+    height: 600px;
+    
+}
+.carousel-inner > .item > img
+{
+   margin-left: 400px;
+    height: 500px;
+   
+    top: 0;
+    left: 0;
+}
+.container >.carousel-caption
+{
+    position: absolute;
+    top: 200px;
+    left: 0;
+    right: 0;
+}
+.team .col-lg-4
+{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.team p
+{
+   margin-left: 10px;
+    margin-right: 10px;
+}
+.divider
+{
+    margin: 40px 0;
+    border: 0.3px dashed;
+    
+}
+.textcol
+{
+    padding-left: 50px;
+    text-align: center;
+    padding-top: 80px;
+    color: white
+    
+    
+}
+.content
+{
+    padding:30px;
+}
+
+footer
+{
+    margin:0 100px;
+    
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("m1.jpg");
+    background-color: rgba(555,555,555,0.5);
+
+  /* Set a specific height */
+  min-height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+
+
